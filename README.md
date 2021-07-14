@@ -10,8 +10,6 @@ a simple script to play pranks on friends
 5. Fine
 
 # How to stop the code
-If you want to stop spam go back to your editor terminal and type `CTRL + C`
-
-If you have a mac type `COMMAND + C`
-
+If you want to stop spam go back to your editor terminal and type `CTRL + C`  
+If you have a mac type `COMMAND + C`  
 Once the spam is finished, the code will stop
