@@ -1,5 +1,5 @@
 # Spam-Text
-a simple script to play pranks on friends
+A simple script to play pranks on friends
 
 # How To Use
 ------------
